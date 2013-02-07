@@ -28,3 +28,4 @@
         <activity android:name=".ScreenFragmentActivity" />
 
     </application>
+    </manifest>
